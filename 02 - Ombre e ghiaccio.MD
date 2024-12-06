@@ -163,3 +163,5 @@ Attraversando il portale, il gruppo si trovò di nuovo nella sala infinita del N
 «Avete fatto ciò che era necessario,» disse il Custode con voce solenne. «Il cristallo è salvo, il tempo è stato protetto. Ma ci sono altre realtà in pericolo. La vostra missione è appena iniziata.»
 
 Con rinnovata determinazione, il gruppo si preparò a ciò che li attendeva, sapendo che ogni vittoria, grande o piccola, avrebbe contribuito a preservare l’equilibrio del multiverso.
+
+![la battaglia infuria](http://url/to/img.png)
