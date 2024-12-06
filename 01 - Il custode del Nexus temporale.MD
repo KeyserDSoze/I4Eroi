@@ -39,3 +39,4 @@ Fabio sospirò e si girò verso gli altri. «Farà sempre così?» disse scuoten
 Amosis scrollò le spalle con un mezzo sorriso enigmatico, mentre Alessandro, con un lungo sospiro di rassegnazione, mormorò: «Questa è la tua definizione di libero arbitrio, Custode?»
 
 E così, uno dopo l’altro, i tre eroi seguirono Francesco nel portale, il loro destino intrecciato in una missione che avrebbe cambiato per sempre il corso della storia e del tempo stesso.
+![l'incontro](https://raw.githubusercontent.com/KeyserDSoze/I4Eroi/refs/heads/main/images/01.webp)
