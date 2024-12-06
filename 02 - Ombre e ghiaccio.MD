@@ -164,4 +164,4 @@ Attraversando il portale, il gruppo si trovò di nuovo nella sala infinita del N
 
 Con rinnovata determinazione, il gruppo si preparò a ciò che li attendeva, sapendo che ogni vittoria, grande o piccola, avrebbe contribuito a preservare l’equilibrio del multiverso.
 
-![la battaglia infuria](http://url/to/img.png)
+![la battaglia infuria](https://raw.githubusercontent.com/KeyserDSoze/I4Eroi/refs/heads/main/images/02.webp)
